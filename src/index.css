@@ -16,10 +16,10 @@ body {
 }
 
 .form-container {
-  background-color: #fff;
+  background-color: #ffffff;
   width: 550 px;
   padding: 4rem;
-  box-shadow: 0 1px 2px rgba(248, 196, 180, 0.5);
+  box-shadow: 10px 10px #fff0f1;
   border-radius: 10px;
 }
 
