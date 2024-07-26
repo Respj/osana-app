@@ -17,14 +17,15 @@ body {
 
 .form-container {
   background-color: #ffffff;
-  width: 550 px;
-  padding: 4rem;
+  width: 25rem;
+  padding: 3.5rem;
   box-shadow: 10px 10px #fff0f1;
-  border-radius: 10px;
+  border-radius: 25px;
+  flex-direction: column;
 }
 
 .form-container h2 {
-  font-size: 2.5rem;
+  font-size: 2.3rem;
   padding: 1rem 0;
   text-align: center;
 }

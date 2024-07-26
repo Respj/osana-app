@@ -37,9 +37,9 @@ function SignIn({ FormHandle }) {
 
         <button onClick={handleLogin}>Zaloguj się</button>
       </form>
-
-      <p onClick={() => FormHandle("signup")}>
-        Nie masz jeszcze konta? <u>Zarejestruj się</u>
+      <p>Nie masz jeszcze konta?</p>
+      <p class="link" onClick={() => FormHandle("signup")}>
+        <u>Zarejestruj się</u>
       </p>
     </div>
   );
